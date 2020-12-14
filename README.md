@@ -1,22 +1,19 @@
-# 
-
+# 01-JavaScript Drum Kit
 
 ##  Repository: 
-[]()
+[01-JavaScript Drum Kit](https://github.com/TBragg800/01-JavaScript-Drum-Kit)
+
+##  Deployed:
+[01-JavaScript Drum Kit](https://tbragg800.github.io/01-JavaScript-Drum-Kit/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/)
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/01-JavaScript-Drum-Kit/)
 
 ## Walkthrough Video Demonstration: 
-
-* YouTube link to the 
-![Walkthrough]()
-[walkthrough]()
+# <p align="center">![Walkthrough](./assets/01-JavaScript-Drum-Kit.gif)</p>
 
 ## Table of Contents
   [Description](#Description)
-
-  [Installation](#Installation)
 
   [Usage](#Usage)
 
@@ -25,15 +22,13 @@
   [Questions](#Questions)
   
 ## Description
- 
+  A JavaScript drum kit created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to practice key events, playing audio and listening for transition end events. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
-* 
+  Simply clone the repo locally.
 
 ## Usage
- 
-
-![]()
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [01-JavaScript Drum Kit](https://tbragg800.github.io/01-JavaScript-Drum-Kit/)
 
 ## License
   MIT License
@@ -64,5 +59,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![]()
+![](./assets/01-JavaScript-Drum-Kit.png)
 
