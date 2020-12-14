@@ -7,7 +7,7 @@
 [01-JavaScript Drum Kit](https://tbragg800.github.io/01-JavaScript-Drum-Kit/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/01-JavaScript-Drum-Kit/)
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/01-JavaScript-Drum-Kit)
 
 ## Walkthrough Video Demonstration: 
 # <p align="center">![Walkthrough](./assets/01-JavaScript-Drum-Kit.gif)</p>
